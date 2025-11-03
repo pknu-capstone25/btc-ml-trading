@@ -55,7 +55,7 @@ python ml_step1_baseline.py
 ## 📊 현재 모델 성능
 
 - **모델**: Logistic Regression (베이스라인)
-- **데이터**: 100만 행 (약 2년치)
+- **데이터**: 약 300만행
 - **Train/Test 분할**: 80:20 (시계열 고려)
 - **평가 지표**: Accuracy, Balanced Accuracy, Classification Report
 
